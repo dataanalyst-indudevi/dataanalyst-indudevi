@@ -36,6 +36,8 @@ My background in statistics and optimization helps me approach data with clarity
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 
 ## Featured Project
 
