@@ -59,7 +59,7 @@ An interactive **financial analytics dashboard built in Excel** using PivotTable
 - Executive-style KPI cards and insight-driven dashboard layout
 
 **Repository:**  
-https://github.com/dataanalyst-indudevi/Financial-Performance-Dashboard-Excel
+https://github.com/dataanalyst-indudevi/Financial-Performance-Dashboard-Excel-
 
 
 More projects coming soon.
