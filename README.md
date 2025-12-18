@@ -47,6 +47,21 @@ A complete analytics solution built on 1,998 Dubai property listings, covering p
 **Repository:**  
 https://github.com/dataanalyst-indudevi/Dubai-Real-Estate-Intelligence-Dashboard
 
+### Financial Performance Intelligence Dashboard (Excel)
+
+An interactive **financial analytics dashboard built in Excel** using PivotTables, Power Pivot, and advanced Excel modeling to analyze revenue, profit, and segment performance across products, countries, and time.
+
+**Key Highlights**
+- End-to-end financial model with validated revenue, COGS, profit, and margin metrics
+- Monthly and yearly trend analysis to identify seasonality and growth patterns
+- Segment-wise and product-wise profitability comparison
+- Interactive slicers (Segment, Country, Product, Year) for dynamic analysis
+- Executive-style KPI cards and insight-driven dashboard layout
+
+**Repository:**  
+https://github.com/dataanalyst-indudevi/Financial-Performance-Dashboard-Excel
+
+
 More projects coming soon.
 
 ---
